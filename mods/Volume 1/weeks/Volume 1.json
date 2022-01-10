@@ -1,0 +1,49 @@
+{
+	"storyName": "The Sans Calamity",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"shotgun shell",
+			"bluskys",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"intertwined",
+			"bosip",
+			[
+				246,
+				33,
+				133
+			]
+		],
+		[
+			"groovy brass",
+			"sans",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Volume 1"
+}
