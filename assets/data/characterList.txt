@@ -19,10 +19,3 @@ senpai-angry
 spirit
 bf-pixel-opponent
 pico-player
-bf-ex
-blu
-bob
-bosip
-gf-ex
-gf-market
-sans-ex
