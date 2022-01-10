@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "limo",
+		"player1": "bf-ex",
+		"player2": "sans-ex",
+		"player3": null,
+		"events": [
+			[
+				7058.82352941176,
+				[
+					[
+						"Kill Henchmen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23294.1176470588,
+				[
+					[
+						"Kill Henchmen",
+						"",
+						"  w"
+					]
+				]
+			],
+			[
+				27529.4117647059,
+				[
+					[
+						"Kill Henchmen",
+						"",
+						"  w"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-ex",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Groovy Brass"
+	}
+}
