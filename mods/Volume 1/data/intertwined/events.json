@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "itb-glitch",
+		"player1": "bob",
+		"player2": "bosip",
+		"player3": null,
+		"events": [
+			[
+				15999.8666677778,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				16124.8656261198,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				16249.8645844618,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				16374.8635428038,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				16499.8625011458,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				16624.8614594878,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				16749.8604178299,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				16874.8593761719,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				16999.8583345139,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-ex",
+		"bpm": 120.001,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Intertwined"
+	}
+}
